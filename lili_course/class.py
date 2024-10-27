@@ -1,4 +1,4 @@
-#class创建一个类，__init__可以定义对象拥有哪些属性，前后两个下划线
+ #class创建一个类，__init__可以定义对象拥有哪些属性，前后两个下划线
 class CuteCat:
     def __init__(self,cat_name,cat_age,cat_color):
         self.name = cat_name
