@@ -31,4 +31,6 @@ class TestShoppingList(unittest.TestCase):
 
         
 #打开终端，输入：python -m unittest
-#两个点表示两个都没错
+#两个点表示两个都没错  
+
+
